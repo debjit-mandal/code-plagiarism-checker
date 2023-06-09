@@ -19,4 +19,8 @@ It calculates a similarity score based on the number of matching lines and outpu
 
     similarity_percentage = (similarity / 2.0) * 100
     
+ to
+ 
+     similarity_percentage = (similarity / No. of files) * 100
+    
 Feel free to suggest any kind of improvements.
